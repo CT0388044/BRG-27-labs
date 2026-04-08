@@ -8,17 +8,17 @@
 **FileName: CT0388044_Khaidhir_Danish_Reflective_Journal.docx**
 
 **upload to SharePoint site:
-[VideoUpload](https://m365kloud.sharepoint.com/:f:/s/LEARN/IgC9M06IRir2RJyC8lWbgg24AVfTSltgiCIbQdYKIcroiVU?e=Uh4ebF)**
+[Video]([https://m365kloud.sharepoint.com/:f:/s/LEARN/IgC9M06IRir2RJyC8lWbgg24AVfTSltgiCIbQdYKIcroiVU?e=Uh4ebF](https://m365kloud.sharepoint.com/sites/LEARN/_layouts/15/stream.aspx?id=%2Fsites%2FLEARN%2FShared%20Documents%2Fe%2DKAPLAN%2FMU%2DISEABRG%2D27%2DIntroServer%2Fstudent%2FVideoUpload%2FCt0388044%20Khaidhir%20Danish%20AssignmentISEA%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5c7c5570%2D2848%2D441b%2Da232%2D1816725ca898))**
 
 **Video Walkthrough Filename: FileName:
 Ct0388044_Khaidhir_Danish_AssignmentISEA.mp4**
 
 # Contents
 
-[1. Introduction [3](#_Toc226552341)](#_Toc226552341)
+[1. Introduction]
 
 [2. Linux Environment Setup and GitHub Integration
-[4](#_Toc226552342)](#_Toc226552342)
+[4](#_Toc226552342)]
 
 [Lab 1a-1 [4](#_Toc226552343)](#_Toc226552343)
 
