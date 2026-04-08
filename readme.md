@@ -17,57 +17,52 @@ Ct0388044_Khaidhir_Danish_AssignmentISEA.mp4**
 
 [1. Introduction]
 
-[2. Linux Environment Setup and GitHub Integration
-[4](#_Toc226552342)]
+[2. Linux Environment Setup and GitHub Integration]
 
-[Lab 1a-1 [4](#_Toc226552343)](#_Toc226552343)
+[Lab 1a-1]
 
-[3. Linux Services, Permissions, and Bash Scripting
-[10](#_Toc226552344)](#_Toc226552344)
+[3. Linux Services, Permissions, and Bash Scripting]
 
-[Lab 1a-2 [10](#lab-1a-2)](#lab-1a-2)
+[Lab 1a-2]
 
-[Lab1b-1 [33](#_Toc226552346)](#_Toc226552346)
+[Lab1b-1]
 
-[Lab1b-2 [49](#_Toc226552347)](#_Toc226552347)
+[Lab1b-2]
 
-[Lab 1b-3 [54](#_Toc226552348)](#_Toc226552348)
+[Lab 1b-3]
 
-[4. Cloud Infrastructure and TCO Analysis
-[57](#_Toc226552349)](#_Toc226552349)
+[4. Cloud Infrastructure and TCO Analysis]
 
-[Lab2a-1 [57](#_Toc226552350)](#_Toc226552350)
+[Lab2a-1]
 
-[Lab2b-1 [58](#_Toc226552351)](#_Toc226552351)
+[Lab2b-1]
 
-[Lab2b-2 [62](#_Toc226552352)](#_Toc226552352)
+[Lab2b-2]
 
-[5. DNS Setup and SSL Configuration
-[68](#_Toc226552353)](#_Toc226552353)
+[5. DNS Setup and SSL Configuration]
 
-[Lab3a-1 [68](#_Toc226552354)](#_Toc226552354)
+[Lab3a-1]
 
-[Lab3a-2 [71](#_Toc226552355)](#_Toc226552355)
+[Lab3a-2]
 
-[6. Automation and Cron Jobs [72](#_Toc226552356)](#_Toc226552356)
+[6. Automation and Cron Jobs]
 
-[Lab3b-1 [72](#_Toc226552357)](#_Toc226552357)
+[Lab3b-1]
 
-[7. Additional Server Service [78](#_Toc226552358)](#_Toc226552358)
+[7. Additional Server Service]
 
-[8. Problems Encountered and Solutions
-[80](#_Toc226552359)](#_Toc226552359)
+[8. Problems Encountered and Solutions]
 
-[9. Industry Relevance [80](#_Toc226552360)](#_Toc226552360)
+[9. Industry Relevance]
 
-[10. Final Reflection [80](#_Toc226552361)](#_Toc226552361)
+[10. Final Reflection]
 
-[11. AI Tools Used (if any) [80](#_Toc226552362)](#_Toc226552362)
+[11. AI Tools Used (if any)]
 
 (each heading will be bookmarked and link to the content page and vice
 versa)
 
-### [1. Introduction](#content)
+### [1. Introduction]
 
 This reflection journal will be on my journey doing the lab work and a
 few challenges set by that lab activities. I will be setting up a
@@ -79,11 +74,11 @@ AWS EC2 service to host a cloud VM to host a public website while
 learning more on DNS and obtaining a digital certificates for the
 website.
 
-### [2. Linux Environment Setup and GitHub Integration](#content)
+### [2. Linux Environment Setup and GitHub Integration]
 
 #### GitHub Usage
 
-### [<span id="_Toc226552343" class="anchor"></span>Lab 1a-1](#content)
+### [<span id="_Toc226552343" class="anchor"></span>Lab 1a-1]
 
 To setup VirtualBox, I need to install from their website,
 <https://www.virtualbox.org/wiki/Downloads>
